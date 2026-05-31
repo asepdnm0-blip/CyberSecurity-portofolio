@@ -1,7 +1,7 @@
 # Introdcution
 
 ## About Me
-Saya adalah mahasiswa [Jurusan] di [Universitas] dengan minat
+Saya adalah mahasiswa INFORMATICS di UTA'45 dengan minat
 di bidang offensive security dan malware analysis. Portofolio
 ini mendokumentasikan latihan penetration testing yang dilakukan
 di lab virtual terisolasi menggunakan VirtualBox.
