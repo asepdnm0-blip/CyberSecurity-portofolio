@@ -20,7 +20,7 @@ nyata yang diuji.
 |   Role   |      OS     |   IP Address   |
 |----------|-------------|----------------|
 | Attacker | Kali Linux  | 192.168.56.101 |
-| Target   | Windows 10  | 192.168.56.1   |
+| Target   | Windows 10  | 192.168.56.103 |
 | Network  | Host-only   | 192.168.56.0/24|
 
 ## MITRE ATT&CK; Coverage
