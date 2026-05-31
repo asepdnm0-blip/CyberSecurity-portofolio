@@ -39,4 +39,6 @@ di-encode, menunjukkan rule bekerja secara spesifik.
 ---
 
 ## Screenshots
-Screenshot: ![YARA Result](./screenshots/01-yara_Result.png)
+Screenshot:
+
+![YARA Result](./screenshots/01-Yara_Result.png)
